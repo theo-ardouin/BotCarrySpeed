@@ -1,7 +1,7 @@
 # Bot Carry Speed
 ### _Payday 2 Mod_
 
-Simple mod that allows to change the carry type of bot's bags.
+Simple mod that allows to change the carry speed of bots.
 Go to _Mod Options_ > _Bot Carry Speed_
 
 ## Requirements

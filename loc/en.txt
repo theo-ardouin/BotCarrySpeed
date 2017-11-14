@@ -1,17 +1,14 @@
 {
   "bcs_menu": "Bot Carry Speed",
   "bcs_menu_title": "Bot Carry Speed",
-  "bcs_menu_descr": "Change the carry type of bot's bags",
+  "bcs_menu_descr": "Change the carry speed of bots",
 
-  "bcs_enabled_title": "Enable mod",
-  "bcs_enabled_descr": "Enable mod",
-
-  "bcs_carry_title": "Carry type",
-  "bcs_carry_descr": "Carry type",
+  "bcs_carry_title": "carry speed",
+  "bcs_carry_descr": "bot carry speed",
 
   "bcs_default": "default",
-  "bcs_light": "light",
+  "bcs_light": "fast",
   "bcs_medium": "medium",
-  "bcs_heavy": "heavy",
-  "bcs_very_heavy": "very heavy"
+  "bcs_heavy": "slow",
+  "bcs_very_heavy": "very slow"
 }
