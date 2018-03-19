@@ -1,14 +1,19 @@
 {
-  "bcs_menu": "Bot Carry Speed",
-  "bcs_menu_title": "Bot Carry Speed",
-  "bcs_menu_descr": "Change the carry speed of bots",
+  "bh_menu": "Bot Helpers",
+  "bh_menu_title": "Bot Helpers",
+  "bh_menu_descr": "I need a hand !",
 
-  "bcs_carry_title": "carry speed",
-  "bcs_carry_descr": "bot carry speed",
+  "bh_carry_title": "carry speed",
 
-  "bcs_default": "default",
-  "bcs_light": "fast",
-  "bcs_medium": "medium",
-  "bcs_heavy": "slow",
-  "bcs_very_heavy": "very slow"
+  "bh_carry_title": "carry speed",
+  "bh_carry_descr": "bot carry speed",
+
+  "bh_carry_default": "default",
+  "bh_carry_light": "fast",
+  "bh_carry_medium": "medium",
+  "bh_carry_heavy": "slow",
+  "bh_carry_very_heavy": "very slow",
+
+  "bh_respawn_title": "Respawn",
+  "bh_respawn_descr": "Respawn on a random AI"
 }

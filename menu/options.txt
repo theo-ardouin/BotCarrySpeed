@@ -1,24 +1,35 @@
 {
-  "menu_id": "bcs_menu",
+  "menu_id": "bh_menu",
   "parent_menu_id": "blt_options",
-  "title": "bcs_menu_title",
-  "description": "bcs_menu_descr",
+  "title": "bh_menu_title",
+  "description": "bh_menu_descr",
   "items": [
     {
       "type": "multiple_choice",
-      "id": "bcs_carry",
-      "title": "bcs_carry_title",
-      "description": "bcs_carry_descr",
+      "id": "bh_carry",
+      "title": "bh_carry_title",
+      "description": "bh_carry_descr",
       "callback": "OnSetCarry",
       "items": [
-        "bcs_default",
-        "bcs_light",
-        "bcs_medium",
-        "bcs_heavy",
-        "bcs_very_heavy"
+        "bh_carry_default",
+        "bh_carry_light",
+        "bh_carry_medium",
+        "bh_carry_heavy",
+        "bh_carry_very_heavy"
       ],
       "value": "carry",
       "default_value": 1
+    },
+    {
+      "type" : "divider",
+      "size" : 12
+    },
+    {
+      "type" : "button",
+      "id" : "bh_respawn",
+      "title" : "bh_respawn_title",
+      "description" : "bh_respawn_descr",
+      "callback" : "OnRespawn"
     }
   ]
 }
